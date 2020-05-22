@@ -1,0 +1,21 @@
+.css{
+background: #7f97ed;
+background: -moz-radial-gradient(center, ellipse cover,  #7f97ed 5%, #5a7eea 17%, #1950db 50%, #1340bd 51%, #1153d7 59%, #0f6cf7 71%, #134cbd 89%, #0d2587 100%);
+background: -webkit-radial-gradient(center, ellipse cover,  #7f97ed 5%,#5a7eea 17%,#1950db 50%,#1340bd 51%,#1153d7 59%,#0f6cf7 71%,#134cbd 89%,#0d2587 100%);
+background: radial-gradient(ellipse at center,  #7f97ed 5%,#5a7eea 17%,#1950db 50%,#1340bd 51%,#1153d7 59%,#0f6cf7 71%,#134cbd 89%,#0d2587 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f97ed', endColorstr='#0d2587',GradientType=1 );
+height:100;
+width: 400;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color:lightblue;
+}
